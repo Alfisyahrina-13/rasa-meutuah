@@ -1,0 +1,18 @@
+ILUSTRASI & FOTO
+================
+Folder ini sudah berisi ilustrasi (.svg) untuk semua item, jadi situs langsung tampil penuh.
+
+Ingin memakai FOTO ASLI? Taruh fotonya di folder ini dengan nama yang SAMA
+tetapi berakhiran .jpg / .jpeg / .png / .webp. Foto asli otomatis menggantikan
+ilustrasi (file .svg tidak perlu dihapus).
+Saran foto: lebar 1600 px, ukuran di bawah 400 KB.
+
+Nama file:
+  Beranda   : hero
+  Kuliner   : mie-aceh, kuah-beulangong, ayam-tangkap, kuah-pliek-u, eungkot-keumamah,
+              sate-matang, timphan, bu-kulah, kopi-gayo, kopi-sanger
+  Budaya    : tari-saman, rapai-geleng, rumoh-aceh, peusijuek, meugang, rencong
+  Wilayah   : banda-aceh, aceh-besar, pidie, bireuen, aceh-tengah, sabang
+  Oleh-oleh : kopi-arabika-gayo, asam-sunti, timphan-isi-srikaya, emping-melinjo,
+              bumbu-mie-aceh, keukarah
+Contoh: mie-aceh.jpg

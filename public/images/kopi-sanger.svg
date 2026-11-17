@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs>
+<linearGradient id="ga" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15434F"/><stop offset="1" stop-color="#061015"/></linearGradient>
+<radialGradient id="ra" cx="50%" cy="48%" r="58%"><stop offset="0" stop-color="#E0875F" stop-opacity=".40"/><stop offset="1" stop-color="#E0875F" stop-opacity="0"/></radialGradient>
+<pattern id="pa" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M22 5 39 39H5z" fill="none" stroke="#fff" stroke-opacity=".06" stroke-width="2"/></pattern>
+</defs>
+<rect width="800" height="600" fill="url(#ga)"/><rect width="800" height="600" fill="url(#pa)"/><rect width="800" height="600" fill="url(#ra)"/><circle cx="400" cy="295" r="228" fill="none" stroke="#E0875F" stroke-opacity=".38" stroke-width="2"/><circle cx="400" cy="295" r="262" fill="none" stroke="#E0875F" stroke-opacity=".16" stroke-width="2"/><ellipse cx="400" cy="500" rx="190" ry="14" fill="#000" opacity=".32"/><g transform="translate(400 295)"><ellipse cx="0" cy="158" rx="130" ry="18" fill="#C9C3B3"/>
+<polygon points="-81.3,-80 81.3,-80 77.2,-18 -77.2,-18" fill="#4B2A1B"/><polygon points="-77.2,-18 77.2,-18 72.8,48 -72.8,48" fill="#8A5A3C"/><polygon points="-72.8,48 72.8,48 66.3,146 -66.3,146" fill="#EFDDBB"/>
+<path d="M-84 -120H84L66 150H-66Z" fill="#F3EEE3" fill-opacity=".08" stroke="#F3EEE3" stroke-width="4" stroke-linejoin="round"/>
+<path d="M-62 -100L-52 120" stroke="#fff" stroke-opacity=".35" stroke-width="6" stroke-linecap="round"/>
+<path d="M70 -190L18 -40" stroke="#3CB5A2" stroke-width="8" stroke-linecap="round"/><path d="M-20 -125c-14 -22 14 -34 0 -58c-12 -20 10 -34 0 -50" stroke="#F3EEE3" stroke-opacity="0.4" stroke-width="6" stroke-linecap="round" fill="none"/></g></svg>

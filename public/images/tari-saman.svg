@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs>
+<linearGradient id="ga" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15434F"/><stop offset="1" stop-color="#061015"/></linearGradient>
+<radialGradient id="ra" cx="50%" cy="48%" r="58%"><stop offset="0" stop-color="#3CB5A2" stop-opacity=".40"/><stop offset="1" stop-color="#3CB5A2" stop-opacity="0"/></radialGradient>
+<pattern id="pa" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M22 5 39 39H5z" fill="none" stroke="#fff" stroke-opacity=".06" stroke-width="2"/></pattern>
+</defs>
+<rect width="800" height="600" fill="url(#ga)"/><rect width="800" height="600" fill="url(#pa)"/><rect width="800" height="600" fill="url(#ra)"/><circle cx="400" cy="295" r="228" fill="none" stroke="#3CB5A2" stroke-opacity=".38" stroke-width="2"/><circle cx="400" cy="295" r="262" fill="none" stroke="#3CB5A2" stroke-opacity=".16" stroke-width="2"/><g transform="translate(400 295)"><g transform="translate(-152 30) rotate(6 0 110)">
+<path d="M-30 -30H30L38 112H-38Z" fill="#E0875F"/><path d="M-30 -30H30L34 10H-34Z" fill="#000" opacity=".12"/>
+<circle cx="0" cy="-62" r="24" fill="#F3EEE3"/><path d="M-26 -72Q0 -100 26 -72L24 -66H-24Z" fill="#0A1A20"/>
+<path d="M-26 -14L-50 28L-26 42M26 -14L50 28L26 42" stroke="#C9C3B3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><g transform="translate(-76 30) rotate(-6 0 110)">
+<path d="M-30 -30H30L38 112H-38Z" fill="#3CB5A2"/><path d="M-30 -30H30L34 10H-34Z" fill="#000" opacity=".12"/>
+<circle cx="0" cy="-62" r="24" fill="#F3EEE3"/><path d="M-26 -72Q0 -100 26 -72L24 -66H-24Z" fill="#0A1A20"/>
+<path d="M-26 -14L-50 28L-26 42M26 -14L50 28L26 42" stroke="#C9C3B3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><g transform="translate(0 30) rotate(6 0 110)">
+<path d="M-30 -30H30L38 112H-38Z" fill="#E0875F"/><path d="M-30 -30H30L34 10H-34Z" fill="#000" opacity=".12"/>
+<circle cx="0" cy="-62" r="24" fill="#F3EEE3"/><path d="M-26 -72Q0 -100 26 -72L24 -66H-24Z" fill="#0A1A20"/>
+<path d="M-26 -14L-50 28L-26 42M26 -14L50 28L26 42" stroke="#C9C3B3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><g transform="translate(76 30) rotate(-6 0 110)">
+<path d="M-30 -30H30L38 112H-38Z" fill="#3CB5A2"/><path d="M-30 -30H30L34 10H-34Z" fill="#000" opacity=".12"/>
+<circle cx="0" cy="-62" r="24" fill="#F3EEE3"/><path d="M-26 -72Q0 -100 26 -72L24 -66H-24Z" fill="#0A1A20"/>
+<path d="M-26 -14L-50 28L-26 42M26 -14L50 28L26 42" stroke="#C9C3B3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><g transform="translate(152 30) rotate(6 0 110)">
+<path d="M-30 -30H30L38 112H-38Z" fill="#E0875F"/><path d="M-30 -30H30L34 10H-34Z" fill="#000" opacity=".12"/>
+<circle cx="0" cy="-62" r="24" fill="#F3EEE3"/><path d="M-26 -72Q0 -100 26 -72L24 -66H-24Z" fill="#0A1A20"/>
+<path d="M-26 -14L-50 28L-26 42M26 -14L50 28L26 42" stroke="#C9C3B3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g><rect x="-205" y="142" width="410" height="8" rx="4" fill="#C9C3B3" opacity=".5"/><path d="M-196 150L-182 128L-168 150Z" fill="#E0875F" opacity=".85"/><path d="M-168 150L-154 128L-140 150Z" fill="#E0875F" opacity=".85"/><path d="M-140 150L-126 128L-112 150Z" fill="#E0875F" opacity=".85"/><path d="M-112 150L-98 128L-84 150Z" fill="#E0875F" opacity=".85"/><path d="M-84 150L-70 128L-56 150Z" fill="#E0875F" opacity=".85"/><path d="M-56 150L-42 128L-28 150Z" fill="#E0875F" opacity=".85"/><path d="M-28 150L-14 128L0 150Z" fill="#E0875F" opacity=".85"/><path d="M0 150L14 128L28 150Z" fill="#E0875F" opacity=".85"/><path d="M28 150L42 128L56 150Z" fill="#E0875F" opacity=".85"/><path d="M56 150L70 128L84 150Z" fill="#E0875F" opacity=".85"/><path d="M84 150L98 128L112 150Z" fill="#E0875F" opacity=".85"/><path d="M112 150L126 128L140 150Z" fill="#E0875F" opacity=".85"/><path d="M140 150L154 128L168 150Z" fill="#E0875F" opacity=".85"/><path d="M168 150L182 128L196 150Z" fill="#E0875F" opacity=".85"/></g></svg>

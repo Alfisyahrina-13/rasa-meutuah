@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs>
+<linearGradient id="ga" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15434F"/><stop offset="1" stop-color="#061015"/></linearGradient>
+<radialGradient id="ra" cx="50%" cy="48%" r="58%"><stop offset="0" stop-color="#E0875F" stop-opacity=".40"/><stop offset="1" stop-color="#E0875F" stop-opacity="0"/></radialGradient>
+<pattern id="pa" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M22 5 39 39H5z" fill="none" stroke="#fff" stroke-opacity=".06" stroke-width="2"/></pattern>
+</defs>
+<rect width="800" height="600" fill="url(#ga)"/><rect width="800" height="600" fill="url(#pa)"/><rect width="800" height="600" fill="url(#ra)"/><circle cx="400" cy="295" r="228" fill="none" stroke="#E0875F" stroke-opacity=".38" stroke-width="2"/><circle cx="400" cy="295" r="262" fill="none" stroke="#E0875F" stroke-opacity=".16" stroke-width="2"/><ellipse cx="400" cy="500" rx="190" ry="14" fill="#000" opacity=".32"/><g transform="translate(400 295)"><ellipse cx="0" cy="128" rx="204" ry="38" fill="#C9C3B3"/><ellipse cx="0" cy="120" rx="180" ry="26" fill="#F3EEE3"/>
+<path d="M-166 114C-166 -72 166 -72 166 114Z" fill="#F3EEE3"/><path d="M-166 114H166" stroke="#B45C38" stroke-width="10"/>
+<path d="M-120 72C-120 0 -76 -32 -24 -44" stroke="#fff" stroke-opacity=".55" stroke-width="9" stroke-linecap="round" fill="none"/>
+<rect x="-10" y="-84" width="20" height="22" fill="#B45C38"/><circle cx="0" cy="-92" r="20" fill="#E0875F"/>
+<g fill="#E0875F" opacity=".9"><path d="M-144 112L-132 88L-120 112Z"/><path d="M-100 112L-88 88L-76 112Z"/><path d="M-56 112L-44 88L-32 112Z"/><path d="M-12 112L0 88L12 112Z"/><path d="M32 112L44 88L56 112Z"/><path d="M76 112L88 88L100 112Z"/><path d="M120 112L132 88L144 112Z"/></g><path d="M-120 -40c-14 -22 14 -34 0 -58c-12 -20 10 -34 0 -50" stroke="#F3EEE3" stroke-opacity="0.4" stroke-width="6" stroke-linecap="round" fill="none"/><path d="M120 -40c-14 -22 14 -34 0 -58c-12 -20 10 -34 0 -50" stroke="#F3EEE3" stroke-opacity="0.4" stroke-width="6" stroke-linecap="round" fill="none"/></g></svg>

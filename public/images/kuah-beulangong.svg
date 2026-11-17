@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs>
+<linearGradient id="ga" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15434F"/><stop offset="1" stop-color="#061015"/></linearGradient>
+<radialGradient id="ra" cx="50%" cy="48%" r="58%"><stop offset="0" stop-color="#E0875F" stop-opacity=".40"/><stop offset="1" stop-color="#E0875F" stop-opacity="0"/></radialGradient>
+<pattern id="pa" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M22 5 39 39H5z" fill="none" stroke="#fff" stroke-opacity=".06" stroke-width="2"/></pattern>
+</defs>
+<rect width="800" height="600" fill="url(#ga)"/><rect width="800" height="600" fill="url(#pa)"/><rect width="800" height="600" fill="url(#ra)"/><circle cx="400" cy="275" r="228" fill="none" stroke="#E0875F" stroke-opacity=".38" stroke-width="2"/><circle cx="400" cy="275" r="262" fill="none" stroke="#E0875F" stroke-opacity=".16" stroke-width="2"/><ellipse cx="400" cy="480" rx="190" ry="14" fill="#000" opacity=".32"/><g transform="translate(400 275)"><path d="M-86 224C-100 176 -58 164 -66 124C-28 156 -18 196 -42 224Z" fill="#E0875F"/>
+<path d="M-10 224C-26 168 14 150 4 100C50 138 56 190 30 224Z" fill="#E9C27A"/>
+<path d="M40 224C34 188 70 176 62 142C100 170 100 200 80 224Z" fill="#E0875F"/>
+<rect x="-120" y="222" width="240" height="14" rx="7" fill="#B45C38"/>
+<path d="M-175 -20H175C175 100 105 160 0 160C-105 160 -175 100 -175 -20Z" fill="#27454F" stroke="#C9C3B3" stroke-width="4"/>
+<ellipse cx="0" cy="-20" rx="175" ry="32" fill="#C9C3B3"/><ellipse cx="0" cy="-18" rx="158" ry="24" fill="#B45C38"/>
+<g fill="#D9A06A"><circle cx="-90" cy="-22" r="15"/><circle cx="-30" cy="-12" r="14"/><circle cx="40" cy="-24" r="16"/><circle cx="100" cy="-14" r="13"/></g>
+<g fill="none" stroke="#C9C3B3" stroke-width="8"><circle cx="-184" cy="6" r="15"/><circle cx="184" cy="6" r="15"/></g>
+<path d="M-140 60H140" stroke="#E0875F" stroke-width="4" stroke-dasharray="3 12" stroke-linecap="round"/><path d="M-60 -70c-14 -22 14 -34 0 -58c-12 -20 10 -34 0 -50" stroke="#F3EEE3" stroke-opacity="0.5" stroke-width="6" stroke-linecap="round" fill="none"/><path d="M20 -76c-14 -22 14 -34 0 -58c-12 -20 10 -34 0 -50" stroke="#F3EEE3" stroke-opacity="0.5" stroke-width="6" stroke-linecap="round" fill="none"/><path d="M90 -66c-14 -22 14 -34 0 -58c-12 -20 10 -34 0 -50" stroke="#F3EEE3" stroke-opacity="0.5" stroke-width="6" stroke-linecap="round" fill="none"/></g></svg>
